@@ -1,0 +1,12 @@
+#canvas-id {
+	margin: -500px auto 0px;
+    	width: 1000px;
+    	height: 500px; 
+	-webkit-user-select: none;
+}
+#bg {
+	margin: 0px auto 0px;
+ 	width: 1000px;
+	height: 500px; 
+	-webkit-user-select: none;	
+}

@@ -1,0 +1,8 @@
+#canvas-id {
+    margin: 0; 
+    padding: 0;
+    width: 800px; 
+    height: 600px; 
+	background-color:#CCCC00;
+	cursor: none;
+}
